@@ -1,0 +1,1 @@
+Sample Ruby on Rails 3 tutorial project
